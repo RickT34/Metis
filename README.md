@@ -19,11 +19,6 @@
     <a href="https://huggingface.co/datasets/Accio-Lab/Metis-ColdStart"><img src="https://img.shields.io/badge/🤗-ColdStart_Data-yellow" alt="ColdStart Data"></a>
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/github/license/Accio-Lab/Metis?style=flat-square&color=green" alt="License">
-    <img src="https://img.shields.io/github/stars/Accio-Lab/Metis?style=flat-square&color=yellow" alt="Stars">
-    <img src="https://img.shields.io/badge/python-%3E%3D3.10-blue?style=flat-square" alt="Python">
-</p>
 
 ---
 
@@ -192,7 +187,7 @@ When the query is resolvable from the visual context and parametric knowledge al
 When fine-grained visual analysis exceeds the model's native resolution capabilities, Metis strategically invokes code execution to crop and enlarge the relevant region. Code execution is not a default fallback, but a precision instrument deployed only when the visual evidence at the original resolution is genuinely ambiguous.
 
 <p align="center">
-  <img src="assets/case5.png" width="95%">
+  <img src="assets/case2.png" width="95%">
   <br>
   <em>The question requires comparing curves in a specific subplot region difficult to resolve at the original image scale. Metis invokes code to crop and enlarge the relevant area, enabling precise identification of curve behavior near the queried time step.</em>
 </p>
@@ -206,7 +201,7 @@ When fine-grained visual analysis exceeds the model's native resolution capabili
 
 - 🐍 Python >= 3.10
 - 🔧 CUDA >= 12.1
-- 🖥️ 8× GPUs (80GB each, e.g. A100/H100) for RL training
+- 🖥️ 8× GPUs (180GB each, e.g. B200) for RL training
 
 ### 📦 Install
 
