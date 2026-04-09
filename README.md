@@ -1,17 +1,20 @@
 <p align="center">
-  <h1 align="center">Metis: Cultivating Meta-Cognitive Tool Use<br>in Agentic Multimodal Models</h1>
+  <h1 align="center">Act Wisely: Cultivating Meta-Cognitive Tool Use<br>in Agentic Multimodal Models</h1>
 </p>
 
 <p align="center">
-    <b><a href="https://scholar.google.com/citations?user=2VhjOykAAAAJ&hl=en">Shilin Yan</a><sup>1*†‡</sup>, <a href="https://scholar.google.com/citations?user=T-0oVM4AAAAJ&hl=en">Jintao Tong</a><sup>1,2*</sup>, <a href="https://scholar.google.com/citations?user=k5CJa5YAAAAJ&hl=zh-CN">Hongwei Xue</a><sup>1</sup>, Xiaojun Tang<sup>1</sup>, Yangyang Wang<sup>1</sup>,</b><br>
-    <b>Kunyu Shi<sup>1</sup>, Guannan Zhang<sup>1</sup>, <a href="https://scholar.google.com/citations?user=scAIu2MAAAAJ&hl=en&oi=ao">Ruixuan Li</a><sup>2‡</sup>, <a href="https://scholar.google.com/citations?user=VXxF0mcAAAAJ&hl=en&oi=ao">Yixiong Zou</a><sup>2‡</sup></b><br>
+    <b><a href="https://scholar.google.com/citations?user=2VhjOykAAAAJ&hl=en">Shilin Yan</a><sup>1*†‡</sup>, <a href="https://scholar.google.com/citations?user=T-0oVM4AAAAJ&hl=en">Jintao Tong</a><sup>1,2*</sup>, <a href="https://scholar.google.com/citations?user=k5CJa5YAAAAJ&hl=zh-CN">Hongwei Xue</a><sup>1†</sup>, Xiaojun Tang<sup>1</sup>, Yangyang Wang<sup>1</sup>,</b><br> 
+    <b>Kunyu Shi<sup>1</sup>, Guannan Zhang<sup>1</sup>, <a href="https://scholar.google.com/citations?user=scAIu2MAAAAJ&hl=en&oi=ao">Ruixuan Li</a><sup>2‡</sup>, <a href="https://scholar.google.com/citations?user=VXxF0mcAAAAJ&hl=en&oi=ao">Yixiong Zou</a><sup>2‡</sup></b><br> <br>
     <sup>*</sup>Equal contribution &emsp; <sup>†</sup>Project Leader &emsp; <sup>‡</sup>Corresponding Author<br><br>
     <sup>1</sup>Accio Team, Alibaba Group &emsp; <sup>2</sup>Huazhong University of Science and Technology
 </p>
 
+
+
+
 <p align="center">
     <a href="https://Accio-Lab.github.io/Metis"><img src="https://img.shields.io/badge/🏠-Project_Page-blue" alt="Project Page"></a>
-    <a href="https://Accio-Lab.github.io/Metis"><img src="https://img.shields.io/badge/📖-arXiv_Paper-red" alt="Paper"></a>
+    <a href=""><img src="https://img.shields.io/badge/📖-arXiv_Paper-red" alt="Paper"></a>
     <a href="https://github.com/Accio-Lab/Metis"><img src="https://img.shields.io/badge/💻-GitHub-black" alt="GitHub"></a>
     <a href="https://huggingface.co/Accio-Lab/Metis-8B-RL"><img src="https://img.shields.io/badge/🤗-RL_Model-yellow" alt="RL Model"></a>
     <a href="https://huggingface.co/datasets/Accio-Lab/Metis-RL"><img src="https://img.shields.io/badge/🤗-RL_Data-yellow" alt="RL Data"></a>
