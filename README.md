@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="https://Accio-Lab.github.io/Metis"><img src="https://img.shields.io/badge/🏠-Project_Page-blue" alt="Project Page"></a>
-    <a href=""><img src="https://img.shields.io/badge/📖-arXiv_Paper-red" alt="Paper"></a>
+    <a href="https://arxiv.org/abs/2604.08545"><img src="https://img.shields.io/badge/📖-arXiv_Paper-red" alt="Paper"></a>
     <a href="https://github.com/Accio-Lab/Metis"><img src="https://img.shields.io/badge/💻-GitHub-black" alt="GitHub"></a>
     <a href="https://huggingface.co/Accio-Lab/Metis-8B-RL"><img src="https://img.shields.io/badge/🤗-RL_Model-yellow" alt="RL Model"></a>
     <a href="https://huggingface.co/datasets/Accio-Lab/Metis-RL"><img src="https://img.shields.io/badge/🤗-RL_Data-yellow" alt="RL Data"></a>
@@ -409,7 +409,7 @@ If you find Metis or HDPO useful in your research, please consider citing:
 @article{yan2026metis,
   title={Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models},
   author={Yan, Shilin and Tong, Jintao and Xue, Hongwei and Tang, Xiaojun and Wang, Yangyang and Shi, Kunyu and Zhang, Guannan and Li, Ruixuan and Zou, Yixiong},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2604.08545},
   year={2026}
 }
 ```
